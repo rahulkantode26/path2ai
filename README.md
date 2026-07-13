@@ -1,4 +1,4 @@
-# NLP Basics & NLP Models
+# NLP & NLP Models
 
 Assignments covering the fundamentals of text preprocessing and two core ways to turn text into numbers: TF-IDF and Word2Vec.
 
